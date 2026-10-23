@@ -1,0 +1,15 @@
+```text
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+bin/
+out/
